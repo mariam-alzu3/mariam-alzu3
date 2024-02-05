@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mariam! <br/><a>Software Engineer Student with Cybersecurity Experience</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Express, MySQL/MongoDB)</b>
   - [OneSyllabus](https://github.com/ShaimaaAliECE/se3350_groupproject-se3350-team-18) <b><i></b></i>
@@ -14,12 +14,16 @@
   - [Chatroom (C++)](https://github.com/mariam-alzu3?tab=repositories)
   - [2D RPG Game (C# & Unity)](https://github.com/mariam-alzu3/2250_FinalGame)
 
-<h2>👨‍💻 Cybersecurity:</h2>
+<h2>🖥️ Cybersecurity:</h2>
 
 - <b>Cybersecurity Intern @ AudienceView</b>
   - Gained experience working with cybersecurity tools, including Rapid7 and AlienVault, to enhance organizational security and safeguard against potential threats. <b><i></b></i>
   - Developed a comprehensive Disaster Recovery Plan Template <b><i></b></i>
   - Orchestrated the reorganization of the vulnerability management system, involving monthly asset scans and the initiation of epics and tickets in Azure. Collaborated with cross-functional teams to promptly address and resolve identified vulnerabilities. <b><i></b></i>
+
+<h2> 📄 My Resume:</h2>
+- https://github.com/mariam-alzu3/mariam-alzu3/assets/90797083/b2bc2348-a2e4-4588-8aae-5f7cdf6744c4
+
 
 <h2> 🤳 How to reach me:</h2>
 
