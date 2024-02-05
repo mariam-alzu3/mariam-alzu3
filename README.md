@@ -8,7 +8,7 @@
   - [Music Library](https://github.com/mariam-alzu3/se3316-dbharga-vweihena-malzuba-lab4) <b><i></b></i>
 - <b>Java & Data Structures and Algorithms Practice</b>
   - [ATM Machine](https://github.com/mariam-alzu3/Banking-System)
-  - [Praciting DS & Algos](https://github.com/mariam-alzu3/DSA)
+  - [Practicing DS & Algos](https://github.com/mariam-alzu3/DSA)
 - <b>Others</b>
   - [CineFlicks (JavaScript, HTML, CSS, API)](https://github.com/mariam-alzu3/Movies-Website)
   - [Chatroom (C++)](https://github.com/mariam-alzu3?tab=repositories)
