@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Express, MySQL/MongoDB)</b>
-  - [OneSyllabus](https://github.com/ShaimaaAliECE/se3350_groupproject-se3350-team-18) <b><i></b></i>
+  - [OneSyllabus](https://github.com/mariam-alzu3/OneSyllabus) <b><i></b></i>
   - [PictureThis](https://github.com/mariam-alzu3/PictureThis) <b><i></b></i>
   - [Music Library](https://github.com/mariam-alzu3/se3316-dbharga-vweihena-malzuba-lab4) <b><i></b></i>
 - <b>Java & Data Structures and Algorithms Practice</b>
