@@ -20,7 +20,7 @@
   - Gained experience working with cybersecurity tools, including Rapid7 and AlienVault, to enhance organizational security and safeguard against potential threats. <b><i></b></i>
   - Developed a comprehensive Disaster Recovery Plan Template <b><i></b></i>
   - Orchestrated the reorganization of the vulnerability management system, involving monthly asset scans and the initiation of epics and tickets in Azure. Collaborated with cross-functional teams to promptly address and resolve identified vulnerabilities. <b><i></b></i>
-  - Obtained the ISC2 CC Certificate
+  - [Obtained the ISC2 CC Certificate.pdf](https://github.com/mariam-alzu3/mariam-alzu3/files/14793154/ISC2.CC.Certificate.pdf)
 
 <h2> 📄 My Resume:</h2>
 - https://github.com/mariam-alzu3/mariam-alzu3/assets/90797083/b2bc2348-a2e4-4588-8aae-5f7cdf6744c4
